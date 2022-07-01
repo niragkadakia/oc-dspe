@@ -24,7 +24,3 @@ To generate synthetic data as in the paper, use the `*gen_data*.py`scripts in th
 The estimation scripts using OC-DSPE are `lorenz_adj.py` for the Lorenz96 model, and `morris_lecar_adj.py` for the Morris-Lecar neuron model. There are many other related scripts that generate estimations with other conditions (extra channel in model, process noise, estimation all parameters versus just conductances). 
 
 There are also related estimation scripts for using constrained least squares (named `*4dvar.py` ) and using the original dynamical state and parameter estimation routine `*dspe.py` . 
-
-
-
-"# oc-dspe" 
